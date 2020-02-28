@@ -1,0 +1,18 @@
+{
+  "name": "rest-echo",
+  "version": "1.0.0",
+  "description": "A simple echo service",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Elio Cro <elio@eliocro.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
